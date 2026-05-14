@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joaco</h1>
 <h3 align="center">A System Enginiering student from Argentina⚽</h3>
 
-<h3 align="left">Connect with me: [![Email](https://img.shields.io/badge/Email-joakoromay2%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:joakoromay2@gmail.com)</h3>
+<h3 align="left">
+  Connect with me: 
+  <a href="mailto:joakoromay2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joakoromay2%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</h3>
 <p align="left">
 </p>
 
